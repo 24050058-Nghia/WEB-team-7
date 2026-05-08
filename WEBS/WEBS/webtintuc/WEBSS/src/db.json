@@ -1,0 +1,25 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Công nghệ AI 2026: Bước ngoặt mới",
+      "summary": "AI đang thay đổi cách chúng ta lập trình mỗi ngày.",
+      "category": "CÔNG NGHỆ",
+      "image_url": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "author": "Thành Nghĩa",
+      "created_at": "2026-04-10 10:00:00"
+    },
+    {
+      "id": "2",
+      "title": "Thị trường Bất động sản sôi động",
+      "summary": "Giá chung cư tại các đô thị lớn tiếp tục tăng nhẹ.",
+      "category": "BẤT ĐỘNG SẢN",
+      "image_url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa",
+      "author": "Admin",
+      "created_at": "2026-04-09 15:30:00"
+    }
+  ],
+  "users": [
+    { "id": 1, "name": "Thành Nghĩa", "role": "admin" }
+  ]
+}
